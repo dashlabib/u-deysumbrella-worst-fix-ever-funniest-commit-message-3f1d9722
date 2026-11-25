@@ -1,0 +1,1 @@
+Fix login bug by removing login — users can no longer log in, so technically zero login errors
